@@ -16,4 +16,4 @@ The following npm packages are used in this project
 
 
 # Tech Stack
-Client: HTML, CSS
+Client: HTML, CSS, PHP
