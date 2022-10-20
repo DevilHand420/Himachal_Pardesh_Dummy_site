@@ -2,11 +2,9 @@
 # Introduction
 I have build a College university full workinng responsive frontend site. the server is not used but can be used like momgodb, NODE.JS, EXPRESS.JS, MONGODB 
 
-# Installation
-Install Node.js After that run the follwoing command in vs code terminal or caomman prompt to check if the installation completed successfully.
-
-# Dependencies
-The following npm packages are used in this project
+# Software used
+1. Notepad++
+2. VS code
 
 # Screenshots
 ## Menu:
