@@ -1,6 +1,6 @@
 # Xenonstack_Technical-Round
 # Introduction
-I have build a College university full workinng responsive frontend site. the server is not used but can be used like:-NODE.JS, EXPRESS.JS, MONGODB 
+I have build a College university full workinng responsive frontend site, the server is not used but can be used like:-NODE.JS, EXPRESS.JS, MONGODB 
 
 # Software used
 1. Notepad++
