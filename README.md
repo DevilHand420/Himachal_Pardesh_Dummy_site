@@ -1,4 +1,4 @@
-# Himachal_PArdesh_Dummy_SITE
+# Himachal_PArdesh_University_Dummy_SITE
 # Introduction
 I have build a College university full workinng responsive frontend site, the server is not used but can be used like:-NODE.JS, EXPRESS.JS, MONGODB 
 
