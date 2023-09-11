@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Himachal Pradesh University Dummy Site project! This comprehensive and fully responsive frontend website offers a glimpse into the world of a university or college. While the project primarily focuses on the frontend aspects, it is designed to seamlessly integrate with a server-side implementation using XAMPP—a popular web development stack that includes Apache, MySQL, PHP.
+Welcome to the Himachal Pradesh University Dummy Site project! This comprehensive and fully responsive dummy website offers a glimpse into the world of a university or college. While the project primarily focuses on the frontend aspects, it is designed to seamlessly integrate with a server-side implementation using XAMPP—a popular web development stack that includes Apache, MySQL, PHP.
 
 Our goal with this project is to provide an engaging and interactive web experience for students, faculty, and visitors. The site's intuitive navigation and visually appealing design make it easy to explore various sections, including the homepage, about us, login, student resources, contact us, and a stunning gallery.
 
