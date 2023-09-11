@@ -42,6 +42,8 @@ Whether you're a developer looking for a frontend template or someone interested
 ## Tech Stack
 - Server-Side: XAMPP (includes Apache, MySQL, PHP)
 - Client-Side: HTML, CSS, PHP
+
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
 This makes it clear that XAMPP is responsible for the server-side components of your project.
 
 
